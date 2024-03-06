@@ -117,7 +117,7 @@
         </mxCell>
         <mxCell id="pmfERvmalk-S_cIcb7xF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="pmfERvmalk-S_cIcb7xF-11" target="pmfERvmalk-S_cIcb7xF-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250.00000000000023" y="245" as="sourcePoint" />
+            <mxPoint x="250.000000000000023" y="245" as="sourcePoint" />
             <mxPoint x="360" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
