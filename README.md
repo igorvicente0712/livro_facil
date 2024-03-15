@@ -1,13 +1,10 @@
-# Livro Fácil
+# Livros Fácil
+
+Repositório destinado ao trabalho de Engenharia de Software da FEI.
 
 
-![livro_facil](https://github.com/igorvicente0712/livro_facil/assets/79584321/3eac60a8-9b7e-4638-8252-dc6ff331c327)
-
-ToDo
+Backlog
 
 Telas
   Formulário de endereço do cliente
 
-Fluxograma
-  "Ativa a notificação de reabastecimento" para "manifestar interesse"
-  Arrumar task no reembolso
