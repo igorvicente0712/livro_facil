@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T19:19:27.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="UaIDMTvR0t-qwRfBJaPS" version="24.0.7" type="device">
+<mxfile host="app.diagrams.net" modified="2024-03-19T19:26:15.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="89w8Iq6kXdgx5H-D050h" version="24.0.7" type="device">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="989" dy="1370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
         <mxCell id="kiecp96W7NMD4S45cnNi-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="oDkDdfMOv9z-UdTRqtao-38" source="swSnG9m5OOfU6qNl_l5P-167" target="ZJoQX-y0C0dIPTOLn4gF-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oDkDdfMOv9z-UdTRqtao-147" value="Inspeção de Integridade de Produtos" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+        <mxCell id="oDkDdfMOv9z-UdTRqtao-147" value="Devolução de Produtos" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="185" y="1480" width="925" height="348" as="geometry">
             <mxRectangle x="180" y="70" width="60" height="20" as="alternateBounds" />
           </mxGeometry>
